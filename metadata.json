@@ -1,0 +1,12 @@
+{
+  "name" : "VPN Indicator",
+  "description" : "VPN Indicator for GNOME is an extension to manage Open VPN connections.",
+  "shell-version" : [
+    "40",
+    "41",
+    "42"
+  ],
+  "url" : "",
+  "uuid" : "vpn-indicator@bento.dev",
+  "version" : 1.0
+}
